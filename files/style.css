@@ -1,0 +1,63 @@
+.mainTableWrapper {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: "Arial", Georgia, Serif;
+}
+
+.mainTable {
+	width: 100%;
+	line-height: 30px;
+}
+
+.topTable {
+	background-color: #ecf0f1;
+	padding: 20px 10px;
+	border-radius: 8px;
+}
+
+.responsesTable {
+	margin-top: 10px;
+	background-color: #ecf0f1;
+	padding: 20px 10px;
+	border-radius: 8px;
+}
+
+.mainTableInputCell {
+	width:82%;
+}
+
+.buttonWrapper {
+	width:75%;
+	margin: 20px auto 0 auto;
+}
+
+.bigButton {
+	width: 48%;
+	height: 50px;
+	border-radius: 8px;
+	line-height: 50px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 18px;
+    display: inline-block;
+}
+
+.sendButton {
+	background-color: #27ae60;
+	margin-right:1.5%;
+}
+
+.clearButton {
+	background-color: #e74c3c;
+	margin-left:1.5%;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#responseBox {
+	margin-bottom: 0;
+	-webkit-margin-after: 0;
+}
